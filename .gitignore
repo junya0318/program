@@ -1,0 +1,8 @@
+*.h5
+*.csv
+label_data/
+input_data/
+myenv/
+__pycache__/
+# VS Code ワークスペース
+*.code-workspace
